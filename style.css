@@ -1,0 +1,35 @@
+h1 {
+    font-family: Arial;
+    font-size: 24px;
+ color: black;
+ text-align: center;
+}
+
+body{
+    background-color:#f3f4f5 ;
+}
+
+h2{
+    font-family: Arial;
+    font-size: 20px;
+    color:black;
+text-align: center;
+}
+
+p{
+    font-size: 18px;
+    font-family: Georgia;
+    color:#757575;
+}
+li{
+    font-size: 18px;
+    font-family: Georgia;
+    color:#757575;   
+    
+}
+h1{
+    margin: auto;
+}
+
+
+
